@@ -1,0 +1,11 @@
+.DS_Store
+/example
+/node_modules
+/src
+/test
+/ts
+/.editorconfig
+/.prettierrc
+/jest.config.js
+/tsconfig.json
+/tslint.json

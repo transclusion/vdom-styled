@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "lib": ["dom", "es2018"],
+    "jsx": "react",
+    "jsxFactory": "createVElement",
+    "strict": true,
+    "esModuleInterop": true
+  },
+  "include": ["../src/index.ts", "../ts/*.d.ts"]
+}
